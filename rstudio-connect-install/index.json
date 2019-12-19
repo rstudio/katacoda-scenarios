@@ -26,14 +26,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "dashboards": [
-      {"name": "RStudio Connect", "href": "https://[[HOST_SUBDOMAIN]]-3939-[[KATACODA_HOST]].environments.katacoda.com"},
-      {"name": "Generic", "href": "https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com"}
-    ],
-    "terminals": [
-      {"name": "Terminal", "target": "host01"}
-    ]
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "rstudio-connect"
