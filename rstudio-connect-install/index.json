@@ -26,9 +26,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "iframe"
   },
   "backend": {
-    "imageid": "rstudio-connect"
+    "imageid": "rstudio-connect",
+    "url": "http://rstudio.com"
   }
 }
