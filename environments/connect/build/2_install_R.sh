@@ -1,2 +1,2 @@
 
-apt-get install r-base
+apt-get -y install r-base
