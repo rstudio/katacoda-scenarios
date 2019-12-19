@@ -26,7 +26,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe",
+    "uilayout": "terminal",
     "dashboards": [
       {"name": "RStudio Connect", "href": "https://[[HOST_SUBDOMAIN]]-3939-[[KATACODA_HOST]].environments.katacoda.com"},
       {"name": "Generic", "href": "https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com"}
