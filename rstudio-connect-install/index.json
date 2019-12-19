@@ -26,10 +26,12 @@
     }
   },
   "environment": {
-    "uilayout": "iframe"
+    "uilayout": "iframe",
+    "dashboards": [
+      {"name": "RStudio Connect", "href": "https://[[HOST_SUBDOMAIN]]-3939-[[KATACODA_HOST]].environments.katacoda.com"}
+    ]
   },
   "backend": {
-    "imageid": "rstudio-connect",
-    "url": "http://rstudio.com"
+    "imageid": "rstudio-connect"
   }
 }
